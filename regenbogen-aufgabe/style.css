@@ -1,0 +1,32 @@
+h1 {
+    color: orange;
+}
+
+.quellenangabe{
+    color: gray;
+}
+
+#jaeger {
+    color: green;
+}
+
+#seemann {
+    color: blue;
+}
+
+#schornsteinfeger {
+    color: black;
+}
+
+.strophe{
+    font-style: italic;
+}
+
+.beruf {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#seemann .beruf {
+    background: yellow;
+}
